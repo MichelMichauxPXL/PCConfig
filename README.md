@@ -298,10 +298,4 @@ For issues or questions:
 3. Review configuration files for proper CSV formatting
 4. Ensure running with Administrator privileges
 
-## Contributing
-
-[Add contribution guidelines here]
-
----
-
 **Note**: This script is designed for ProCom deployments and may require customization for other environments. Always test in a non-production environment first.
